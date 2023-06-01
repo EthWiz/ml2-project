@@ -1,14 +1,8 @@
 # To run the gradio server to see the project in practice
-- run in terminal: 
-'''
-pip install -r requirements.txt 
-'''
+- run in terminal:` pip install -r requirements.txt`
 - run all cells in the inference.ipynb file 
 - To see it fully live user needs a Infura account and to find a token contract address
 - For simple example: use pre-fetched address data with the examples that are rendered in the Gradio UI
-
-git config --global user.name "YOUR_USERNAME"
-git config --global user.email "YOUR_EMAIL"
 
 # Sources
 
