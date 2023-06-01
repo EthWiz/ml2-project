@@ -1,3 +1,15 @@
+# To run the gradio server to see the project in practice
+- run in terminal: 
+'''
+pip install -r requirements.txt 
+'''
+- run all cells in the inference.ipynb file 
+- To see it fully live user needs a Infura account and to find a token contract address
+- For simple example: use pre-fetched address data with the examples that are rendered in the Gradio UI
+
+git config --global user.name "YOUR_USERNAME"
+git config --global user.email "YOUR_EMAIL"
+
 # Sources
 
 - https://forta.org/blog/how-fortas-predictive-ml-models-detect-attacks-before-exploitation/?utm_campaign=Newsletter&utm_medium=email&_hsmi=239889290&_hsenc=p2ANqtz-_VH_965iW-a1Cb-fpOeqZoOn1B5eQxlgRcJp8lTgIP-O7jCoqc8n-K1qf1ZQRr27lVHXTuMSlaJHTfGG2e2mlhsntYIg&utm_content=239889290&utm_source=hs_email
